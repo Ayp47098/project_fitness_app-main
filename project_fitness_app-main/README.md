@@ -14,7 +14,7 @@ Check Installation:
 node -v
 npm -v
 
- 2. Install Dependencies:
+2. Install Dependencies:
 npm install
 Set Up Environment Variables:
 
