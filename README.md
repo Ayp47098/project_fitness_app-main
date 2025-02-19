@@ -23,15 +23,16 @@ Ensure you have *Node.js* and *npm* installed on your machine.
 👉 [Download Node.js](https://nodejs.org/) (npm comes with it)  
 
 Check if they are installed by running:  
-sh
+```sh
 node -v
 npm -v
+```
 ### ⿢ Install Dependencies  
 Run the following command to install required packages:  
 
-sh
+```sh
 npm install
-
+```
 ### ⿣ Set Up Environment Variables  
 - Create a *.env* file in the root directory.  
 - Add your API keys and any necessary configuration variables.
