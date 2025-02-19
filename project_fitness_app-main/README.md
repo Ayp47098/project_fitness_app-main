@@ -8,24 +8,24 @@ To run this project locally, you'll need the following:
 
 1. Node.js and npm
 
-Ensure you have Node.js installed on your machine. 
+  Ensure you have Node.js installed on your machine. 
 
-npm (Node Package Manager) is included with Node.js.
+  npm (Node Package Manager) is included with Node.js.
 
 2. Check Installation:
 
-node -v
-npm -v
+  node -v
+  npm -v
 
 3. Install Dependencies:
 
-npm install
-Set Up Environment Variables:
+  npm install
 
-4. Create a .env file in the root directory 
+4. Set Up Environment Variables:
+
+  Create a .env file in the root directory 
 
 5. Run the Development Server:
 
-
-npm start
-The app will be running on http://localhost:3000
+  npm start
+  The app will be running on http://localhost:3000
